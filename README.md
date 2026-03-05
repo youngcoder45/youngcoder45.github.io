@@ -39,6 +39,15 @@ This project mirrors content from my main portfolio:
 - `style.css` – All styling, layout, and animations for the book.
 - `script.js` – Logic for page turns, opening animation, and navigation.
 
+## Screenshots
+
+Below are some preview shots of the 3D portfolio book:
+
+![Portfolio cover](1.png)
+![Experience & journey](2.png)
+![Services & skills](3.png)
+![Featured project & contact](4.png)
+
 ## Customization
 
 - Update text content (name, bio, services, skills, project) directly in `index.html`.
