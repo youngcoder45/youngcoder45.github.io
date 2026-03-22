@@ -56,7 +56,7 @@ export default function Home() {
           target="_blank"
           className="border border-gray-700 px-4 py-2 rounded hover:bg-gray-800"
         >
-          Portfolio
+          Main Portfolio
         </a>
       </section>
 
