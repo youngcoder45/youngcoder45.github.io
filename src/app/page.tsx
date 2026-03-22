@@ -52,7 +52,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://youngcoder45.netlify.app/"
+          href="https://aditya-verma.me"
           target="_blank"
           className="border border-gray-700 px-4 py-2 rounded hover:bg-gray-800"
         >
