@@ -1,5 +1,3 @@
-# CONTRIBUTING.md
-
 ## Contributing Guidelines
 
 Thank you for your interest in contributing.
