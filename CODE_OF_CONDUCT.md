@@ -1,5 +1,3 @@
-# CODE_OF_CONDUCT.md
-
 ## Code of Conduct
 
 This project follows a basic standard of respectful and professional collaboration.
